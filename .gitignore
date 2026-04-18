@@ -1,0 +1,12 @@
+# Ambiente virtual
+.venv/
+__pycache__/
+*.pyc
+
+# Dados grandes (se houver)
+*.csv
+articles_processed.csv
+
+# Outputs grandes
+plots/*.png
+!plots/.gitkeep

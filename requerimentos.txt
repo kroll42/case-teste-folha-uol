@@ -1,0 +1,48 @@
+# ============================================
+# DEPENDÊNCIAS DO PROJETO - ANÁLISE FOLHA/UOL
+# ============================================
+
+# Manipulação de dados e computação numérica
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Visualização de dados
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.13.0
+wordcloud>=1.9.0
+
+# Machine Learning e NLP tradicional
+scikit-learn>=1.2.0
+nltk>=3.8.0
+
+# Análise de sentimentos em português (léxico)
+leia-br>=0.1.0
+
+# Modelagem de tópicos (LDA) – já incluso no scikit-learn
+
+# Decomposição de séries temporais
+statsmodels>=0.14.0
+
+# Testes estatísticos
+scipy>=1.10.0
+
+# Métricas de legibilidade (Flesch)
+textstat>=0.7.3
+
+# Modelos de linguagem baseados em Transformers (BERT)
+transformers>=4.30.0
+torch>=2.0.0
+
+# Exportação de imagens estáticas com Plotly
+kaleido==0.2.1
+
+# Ambiente interativo (Jupyter)
+jupyter>=1.0.0
+ipykernel>=6.20.0
+
+# (Opcional) Para acelerar tokenização no transformers
+# tokenizers>=0.13.0
+
+# (Opcional) Para criação de dashboard
+# streamlit>=1.25.0
