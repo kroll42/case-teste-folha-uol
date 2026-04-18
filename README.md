@@ -1,3 +1,21 @@
+# 📰 Análise de Conteúdo Jornalístico: Folha de S.Paulo (2015-2017)
+
+> Case técnico desenvolvido para processo seletivo de posição em Data Analytics
+
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://python.org)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0-orange.svg)](https://pandas.pydata.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+---
+
+## 🎯 Objetivo
+
+Analisar um dataset público com **167.053 notícias** da Folha de S.Paulo para identificar:
+- Padrões de publicação e sazonalidade editorial
+- Tom de sentimento por categoria (análise de polaridade)
+- Oportunidades de otimização de estratégia de conteúdo
+- Métricas de legibilidade e densidade lexical
+
 
 ---
 
